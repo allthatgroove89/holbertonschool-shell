@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x+u chgrp 004  hello
+chmod x+u chgrp 004 hello
