@@ -1,2 +1,0 @@
-"Shell:Redirections and Filters"
-
