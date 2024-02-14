@@ -1,7 +1,5 @@
 Basics Shell Commands
-
 Each file displays a desired action with a script to execute inside.
-
 0)Print the absolute path name of the current working directory.
 1)Display the contents list of your current directory.
 2)Changes the working directory to the user’s home directory.
