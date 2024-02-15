@@ -1,2 +1,2 @@
 #!/bin/bash
-results=$((BRAVE * LOVE))
+result=$((BRAVE * LOVE))
