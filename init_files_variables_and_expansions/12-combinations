@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {aa..nn}{pp..zz}
