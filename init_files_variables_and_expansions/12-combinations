@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {aa..nn}{pp..zz}
+echo {a..n}{p..z}
